@@ -38,3 +38,11 @@ Custom Domain Configuration
 <img width="954" height="416" alt="step 2(deploy app directly from github)" src="https://github.com/user-attachments/assets/1b0682f4-e777-481b-8f2f-e44ce491e750" />
 <img width="960" height="436" alt="Step 1 (creating github repo)" src="https://github.com/user-attachments/assets/81ce1608-6cc7-4df8-9c1f-ce2bb0471633" />
 
+## Features
+-Static website deployement
+-CI/CD
+-Automatic Deployment
+-Automatic updating.
+ 
+## Author
+Asim Ullah Amjad
